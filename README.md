@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhanasai99
 - 👀 I’m interested in Artificial Intelligence, ,Maximo  and Devops
-- 🌱 I’m currently learning python AI , DS and Meta backend certification in coursera
+- 🌱 I’m currently praticing Devops,Maximo (Asset Mnagemet tool)
 - 💞️ I’m looking to collaborate on Research papers on AI and DS
 - 📫 How to reach me dhanasai1999@gmail.com
 
